@@ -6,9 +6,9 @@ Please have a look at http://www.jwebsocket.org and https://developers.google.co
 
 Till now there are the following jWebSocket plugins implemented:
 
-  FileSystemPlugin
-  RPCPlugin
-  TokenPlugin
+FileSystemPlugin
+RPCPlugin
+TokenPlugin
 
 More plugins will follow at need but it is possible to do most of the work with this three plugins. If you have an idea for a new plugin needed please contact me. If you made a new plugin based on this code, please notify me too - so we canshare it here, too.
 
