@@ -18,4 +18,3 @@ If you have any problems please contact me.
 
 There is a sample client showing some examples possible with the client. Please feel free to test and modify.
 
-You can see a demo at http://www.pear-webdesign-agentur.de/gWebSocket/.
